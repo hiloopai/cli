@@ -1,3 +1,9 @@
+> [!WARNING]
+> **Deprecated — this repository is archived.** The `hiloop` CLI distributed here is no longer
+> developed or released. v0.18.1 (2026-08-16) is the final release. Existing releases and binaries
+> stay available for reference but are unsupported, and the commands and installer below may no
+> longer work against the hiloop service.
+
 # hiloop CLI
 
 The `hiloop` command-line interface — snapshottable, forkable agent sandboxes with tree-native
